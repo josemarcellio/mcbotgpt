@@ -7,6 +7,7 @@ Change `dotenv` to `.env` and modify all the settings in the `.env` file.
 **Required:**
 - mineflayer
 - dotenv
+- axios
 - openai key
 
 **How to Run:**
