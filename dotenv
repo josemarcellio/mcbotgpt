@@ -1,0 +1,11 @@
+#MINECRAFT SETTING
+MINECRAFT_HOST=SERVER_IP
+MINECRAFT_PORT=SERVER_PORT
+MINECRAFT_USERNAME=Udin
+MINECRAFT_AUTH=offline
+
+#OPENAI
+OPENAI_API_KEY=OPENAI_KEY
+MODEL_AI=gpt-3.5-turbo
+PROMPT=Anda sekarang adalah Udin, jawab semua pertanyaan dengan bahasa gaul
+LOG=true
